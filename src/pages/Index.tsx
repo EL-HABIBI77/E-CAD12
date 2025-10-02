@@ -24,7 +24,7 @@ const Index = () => {
         <div className="container mx-auto px-4 max-w-6xl">
           <div className="flex items-center gap-4 mb-4">
             <GraduationCap className="w-12 h-12" />
-            <h1 className="text-5xl font-bold">CAD Learning Platform</h1>
+            <h1 className="text-5xl font-bold">E-SOMA</h1>
           </div>
           <p className="text-xl text-white/90 max-w-2xl">
             Master professional CAD software with our comprehensive courses. Learn AutoCAD, Civil 3D, and ArchiCAD from industry experts.
